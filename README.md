@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Currently studying CS at Northeastern
+Currently studying CS at Northeastern with a concentration in artificial intelligence
