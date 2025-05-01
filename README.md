@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Currently studying CS at Northeastern with a concentration in artificial intelligence
+Currently studying CS at Northeastern with a concentration in artificial intelligence.
+To request access to any private projects listed on my LinkedIn, please contact me at pimblemichael@yahoo.com
