@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 Currently studying CS at Northeastern with a concentration in artificial intelligence.
 To request access to any private projects listed on my LinkedIn, please contact me at pimblemichael@yahoo.com
+
+If you're here on Wednesday looking for the flag (it's a CTF thing), your solution is CTF{turn_1t_0ff_and_back_0n_aga1n}
