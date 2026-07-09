@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 Currently studying CS at Northeastern with a concentration in artificial intelligence.
+Interested in AI/ML, Linux, and cybersecurity.
 To request access to any private projects listed on my LinkedIn, please contact me at pimblemichael@yahoo.com
